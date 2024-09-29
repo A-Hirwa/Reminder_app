@@ -1,0 +1,6 @@
+Student, assignment, submission status
+here, Linux basics files permissions, submitted
+Noel, Linux basics files permissions, not submitted
+Melinda, Linux basics files permissions, not submitted
+Desire, Linux basics files permissions, submitted
+Betty, Linux basics files permissions, not submitted
