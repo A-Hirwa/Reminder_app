@@ -22,5 +22,4 @@ echo "----------------------------------------------"
 check_submissions "$submissions_file"
 
 # Final message
-echo "Startup process complete!"
-
+echo "Reminder app started successfully!"
